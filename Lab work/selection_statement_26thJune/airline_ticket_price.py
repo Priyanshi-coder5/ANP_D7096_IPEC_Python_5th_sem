@@ -23,7 +23,7 @@ Senior Citizen Discount: 20%
 Final Ticket Fare: ₹7600.0 
 --------------------------------'''
 #----------------code-------------------
-# Program to calculate airline ticket fare with additional charges and discounts
+
 
 try:
     age = int(input("Enter Passenger Age: "))
