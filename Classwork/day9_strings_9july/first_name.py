@@ -10,7 +10,7 @@ full_name = input("Enter your full name: ")
 # Step 2: Extract first name manually
 first_name = ""
 for ch in full_name:
-    if ch == " ":   # space मिलने पर loop रोक देंगे
+    if ch == " ":   
         break
     first_name += ch
 
