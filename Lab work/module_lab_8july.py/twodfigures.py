@@ -15,7 +15,10 @@ o Calculate Area
 o Calculate Perimeter
 • Rectangle
 o Calculate Area
-o Calculate Perimeter'''
+o Calculate Perimeter
+-----------------------------------------'''
+
+#------------coding----------------------
 import math
 
 
@@ -46,5 +49,4 @@ def rectangle_area(length, breadth):
 
 def rectangle_perimeter(length, breadth):
     return 2 * (length + breadth)
-
 
